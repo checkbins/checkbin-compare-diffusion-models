@@ -2,6 +2,8 @@
 
 This demo shows how to use Checkbin ✅🗑️ to evaluate the performance of different diffusion models against a list of prompts!
 
+![view-run](https://syntheticco.blob.core.windows.net/model-compare-demo/diffusion_model_compare_scrolling_grid.gif)
+
 ## Step 1 - Tools
 
 To run this demo code, you'll need auth tokens (and accounts) from the following services:
