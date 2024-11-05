@@ -1,4 +1,4 @@
-# Checkbin ✅🗑️ - Avatar Demo
+# Checkbin ✅🗑️ - Compare Models Demo
 
 This demo shows how to use Checkbin ✅🗑️ to evaluate the performance of different diffusion models against a list of prompts!
 
